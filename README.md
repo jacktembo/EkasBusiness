@@ -1,2 +1,0 @@
-# EkasLoan
-# Ekas
